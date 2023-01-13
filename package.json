@@ -1,0 +1,13 @@
+{
+  "name": "bangladesh-localized-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "objectFormatter.js",
+  "type": "module",
+  "scripts": {
+    "format": "node dataSorter.js && node objectFormatter.js"
+  },
+  "keywords": [],
+  "author": "Nazmul Hasan Shajib",
+  "license": "ISC"
+}

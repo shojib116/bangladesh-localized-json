@@ -1,0 +1,143 @@
+{
+  "Bangladesh": {
+    "Barishal": {
+      "Barishal": {
+        "Barishal City Corporation": ["Airport", "Bandar", "Kotwali", "Kawnia"]
+      }
+    },
+    "Chattogram": {
+      "Chattogram": {
+        "Chattogram City Corporation": [
+          "Bakoliya",
+          "Bandar",
+          "Bayazid",
+          "Chandgaon",
+          "Chawkbazar",
+          "Double Mooring",
+          "EPZ",
+          "Halishahar",
+          "Karnaphuli",
+          "Khulshi",
+          "Kotwali",
+          "Pahartali",
+          "Panchlaish",
+          "Patenga",
+          "Sadarghat",
+          "Akbarshah"
+        ]
+      },
+      "Comilla": {
+        "Comilla City Corporation": []
+      }
+    },
+    "Dhaka": {
+      "Dhaka": {
+        "Dhaka North City Corporation": [
+          "Abdullahpur",
+          "Agargaon",
+          "Badda",
+          "Banani",
+          "Banasree",
+          "Baridhara",
+          "Bashundhara",
+          "Bawnia",
+          "Beraid",
+          "Cantonment area",
+          "Dakshinkhan",
+          "Farmgate",
+          "Gabtali",
+          "Gulshan",
+          "Kafrul",
+          "Kazipara",
+          "Khilgaon",
+          "Khilkhet",
+          "Mirpur",
+          "Mohakhali",
+          "Mohammadpur",
+          "Pallabi",
+          "Rampura",
+          "Satarkul",
+          "Sher-e-Bangla Nagar",
+          "Tejgaon",
+          "Uttara",
+          "Uttarkhan",
+          "Vatara"
+        ],
+        "Dhaka South City Corporation": [
+          "Dania",
+          "Demra",
+          "Dhanmondi",
+          "Islampur",
+          "Jurain",
+          "Kamalapur",
+          "Kamrangirchar",
+          "Kotwali",
+          "Lalbagh",
+          "Matuail",
+          "Motijheel",
+          "Nimtoli",
+          "Paltan",
+          "Ramna",
+          "Sabujbagh",
+          "Sadarghat",
+          "Shahbagh",
+          "Shyampur",
+          "Sutrapur",
+          "Wari",
+          "Hazaribagh"
+        ]
+      },
+      "Gazipur": {
+        "Gazipur City Corporation": ["Gazipur Pourosova", "Tongi Pourosova"]
+      },
+      "Narayanganj": {
+        "Narayanganj City Corporation": [
+          "Kadamrasul Pourosova",
+          "Narayanganj Town",
+          "Siddhirganj Pourosova"
+        ]
+      }
+    },
+    "Khulna": {
+      "Khulna": {
+        "Khulna City Corporation": [
+          "Aranghata",
+          "Daulatpur",
+          "Horintana",
+          "Khalishpur",
+          "Khanjahan Ali",
+          "Labanchora",
+          "Sonadanga",
+          "Khulna Sadar"
+        ]
+      }
+    },
+    "Mymensingh": {
+      "Mymensingh": {
+        "Mymensingh City Corporation": []
+      }
+    },
+    "Rajshahi": {
+      "Rajshahi": {
+        "Rajshahi City Corporation": [
+          "Boalia",
+          "Rajpara",
+          "Shah Makhdum",
+          "Motihar",
+          "Kashiadanga",
+          "Chandrima"
+        ]
+      }
+    },
+    "Rangpur": {
+      "Rangpur": {
+        "Rangpur City Corporation": ["Hajirhat", "Haragach", "Mahiganj", "Parshuram", "Tajhat", "Kotwali"]
+      }
+    },
+    "Sylhet": {
+      "Sylhet": {
+        "Sylhet City Corporation": []
+      }
+    }
+  }
+}
